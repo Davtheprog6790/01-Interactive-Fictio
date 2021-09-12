@@ -12,5 +12,5 @@ Harlowe 3 to JSON 0.0.6 by Jonathan Schoonhoven
 #Future Development
 Add more story settings and pictures
 
-Created by
+#Created by
 David Dahodu
